@@ -1,0 +1,11 @@
+C:\Users\A-Gregory.Jean\Desktop\CodingProjects\100Doors\100Doors\bin\Debug\netcoreapp2.2\100Doors.deps.json
+C:\Users\A-Gregory.Jean\Desktop\CodingProjects\100Doors\100Doors\bin\Debug\netcoreapp2.2\100Doors.runtimeconfig.json
+C:\Users\A-Gregory.Jean\Desktop\CodingProjects\100Doors\100Doors\bin\Debug\netcoreapp2.2\100Doors.runtimeconfig.dev.json
+C:\Users\A-Gregory.Jean\Desktop\CodingProjects\100Doors\100Doors\bin\Debug\netcoreapp2.2\100Doors.dll
+C:\Users\A-Gregory.Jean\Desktop\CodingProjects\100Doors\100Doors\bin\Debug\netcoreapp2.2\100Doors.pdb
+C:\Users\A-Gregory.Jean\Desktop\CodingProjects\100Doors\100Doors\obj\Debug\netcoreapp2.2\100Doors.csprojAssemblyReference.cache
+C:\Users\A-Gregory.Jean\Desktop\CodingProjects\100Doors\100Doors\obj\Debug\netcoreapp2.2\100Doors.csproj.CoreCompileInputs.cache
+C:\Users\A-Gregory.Jean\Desktop\CodingProjects\100Doors\100Doors\obj\Debug\netcoreapp2.2\100Doors.AssemblyInfoInputs.cache
+C:\Users\A-Gregory.Jean\Desktop\CodingProjects\100Doors\100Doors\obj\Debug\netcoreapp2.2\100Doors.AssemblyInfo.cs
+C:\Users\A-Gregory.Jean\Desktop\CodingProjects\100Doors\100Doors\obj\Debug\netcoreapp2.2\100Doors.dll
+C:\Users\A-Gregory.Jean\Desktop\CodingProjects\100Doors\100Doors\obj\Debug\netcoreapp2.2\100Doors.pdb
